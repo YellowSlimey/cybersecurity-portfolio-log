@@ -12,7 +12,7 @@
 
 > "Think of it like a security camera system inside a building. The lock on the front door is your firewall. The security camera that records everything and sets off an alarm if someone is moving around after hours — that's your IDS."
 
-**[Introduce the two main types]**
+**[The two main types]**
 
 > **NIDS — Network Intrusion Detection System.** This sits at a point in your network and watches all the traffic flowing through — like a guard watching a busy corridor checking everyone who walks past.
 
